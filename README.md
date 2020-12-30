@@ -12,3 +12,5 @@
   * Ime: <ime_studenta>
   * Prezime: <prezime_studenta>
   * Sifra zad: <sifra_zadatka>
+  ### Fotografija nakon završene prve faze
+  <img src="foto/Trka bolida Formule 1 OpenGL Projekat.PNG" width="900">
