@@ -6,12 +6,71 @@
         ResizeMode="NoResize"
         xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown">
     <Grid>
-        
-        <!-- The OpenGL control provides a OpenGL drawing surface. -->
-        <sharpGL:OpenGLControl 
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Right" Width="250">
+                <StackPanel Margin="10,20,10,10" VerticalAlignment="Center">
+                    <Label Content="Izbor boje ambijentalne komponente" FontSize="12" HorizontalAlignment="Center" FontWeight="SemiBold"></Label>
+                    <DockPanel VerticalAlignment="Center" Margin="10">
+                        <Label Content="RED:    " DockPanel.Dock="Left" FontWeight="SemiBold"></Label>
+                        <TextBox IsEnabled="{Binding AnimationNotActive}" Text="{Binding ElementName=ColorRed, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="50" />
+                        <Slider IsEnabled="{Binding AnimationNotActive}" Maximum="1" TickPlacement="BottomRight" TickFrequency="0.1" Value="0.2" IsSnapToTickEnabled="True" Name="ColorRed" ValueChanged="ColorSlider_ValueChanged" />
+                    </DockPanel>
+
+                    <DockPanel VerticalAlignment="Center" Margin="10">
+                        <Label Content="GREEN:" DockPanel.Dock="Left" FontWeight="SemiBold"/>
+                        <TextBox IsEnabled="{Binding AnimationNotActive}" Text="{Binding ElementName=ColorGreen, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="50" />
+                        <Slider IsEnabled="{Binding AnimationNotActive}" Maximum="1" TickPlacement="BottomRight" TickFrequency="0.1"  Value="0.2" IsSnapToTickEnabled="True" Name="ColorGreen" ValueChanged="ColorSlider_ValueChanged" />
+                    
+                    </DockPanel>
+
+                    <DockPanel VerticalAlignment="Center" Margin="10">
+
+                        <Label Content="BLUE:   " DockPanel.Dock="Left" FontWeight="SemiBold"/>
+                        <TextBox IsEnabled="{Binding AnimationNotActive}" Text="{Binding ElementName=ColorBlue, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="50" />
+                        <Slider IsEnabled="{Binding AnimationNotActive}" Maximum="1" TickPlacement="BottomRight" TickFrequency="0.1" Value="0.0" IsSnapToTickEnabled="True" Name="ColorBlue" ValueChanged="ColorSlider_ValueChanged" />
+                        
+                    </DockPanel>
+                </StackPanel>
+
+                <StackPanel Margin="5" VerticalAlignment="Center">
+                    <Label Content="Rotiranje levog bolida" HorizontalAlignment="Center" FontWeight="SemiBold"/>
+                    <DockPanel VerticalAlignment="Center" Margin="5">
+
+                        <TextBox IsEnabled="{Binding AnimationNotActive}" Text="{Binding ElementName=rotateLeftBolid, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="50" />
+                        <Slider IsEnabled="{Binding AnimationNotActive}" Maximum="360" Minimum="0" Value="0" TickPlacement="BottomRight" TickFrequency="5.0" IsSnapToTickEnabled="True" Name="rotateLeftBolid" ValueChanged="RotateLeftBolid_ValueChanged"/>
+                    </DockPanel>
+
+                    <StackPanel Margin="10" VerticalAlignment="Center" >
+                        <Label Content="Transliranje desnog bolida po x osi" HorizontalAlignment="Center" FontWeight="SemiBold"/>
+                        <DockPanel VerticalAlignment="Center" Margin="5">
+
+                            <TextBox IsEnabled="{Binding AnimationNotActive}" Text="{Binding ElementName=translateRightCar, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="50" />
+                            <Slider IsEnabled="{Binding AnimationNotActive}" Maximum="6.9" Minimum="4.9" Value="5.0" TickPlacement="BottomRight" TickFrequency="0.1" IsSnapToTickEnabled="True" Name="translateRightCar" ValueChanged="TranslateRightCar_ValueChanged" />
+                    
+                    </DockPanel>
+                </StackPanel>
+                
+                </StackPanel>
+
+                <StackPanel Margin="20,10,20,20" VerticalAlignment="Center">
+                    <DockPanel VerticalAlignment="Center" Margin="5">
+                        <Button IsEnabled="{Binding AnimationNotActive}" Click="Button_Click_1" Content="Kamera spreda" Background="Aquamarine" FontSize="16" Height="40" Width="180"/>
+                    </DockPanel>
+                </StackPanel>
+
+                <StackPanel Margin="20,10,20,20" VerticalAlignment="Center">
+                    <DockPanel VerticalAlignment="Center" Margin="5">
+                        <Button IsEnabled="{Binding AnimationNotActive}" Click="Button_Click" Content="Kamera otpozadi" Background="Aquamarine" FontSize="16" Height="40" Width="180"/>
+                    </DockPanel>
+                </StackPanel>
+          </StackPanel>
+            <!-- The OpenGL control provides a OpenGL drawing surface. -->
+
+            <sharpGL:OpenGLControl DockPanel.Dock="Left"
             Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
             OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
             DrawFPS="True" RenderContextType="FBO" FrameRate="10"/>
-        
+
+        </DockPanel>
     </Grid>
 </Window>

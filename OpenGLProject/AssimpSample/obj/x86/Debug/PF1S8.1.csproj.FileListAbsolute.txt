@@ -21,3 +21,95 @@ C:\Users\LukaRA252017\Desktop\RGProjektniZadatak8.1RA252017\AssimpSample\AssimpS
 C:\Users\LukaRA252017\Desktop\RGProjektniZadatak8.1RA252017\AssimpSample\AssimpSample\obj\x86\Debug\PF1S8v1.exe
 C:\Users\LukaRA252017\Desktop\RGProjektniZadatak8.1RA252017\AssimpSample\AssimpSample\obj\x86\Debug\PF1S8v1.pdb
 C:\Users\LukaRA252017\Desktop\RGProjektniZadatak8.1RA252017\AssimpSample\AssimpSample\obj\x86\Debug\PF1S8.1.csprojAssemblyReference.cache
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csprojAssemblyReference.cache
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_Content.g.cs
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_MarkupCompile.cache
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.g.resources
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.Properties.Resources.resources
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.GenerateResource.cache
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CoreCompileInputs.cache
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.exe
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.pdb
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe.config
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.pdb
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Luka Petrovic\Desktop\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CopyComplete
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe.config
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.pdb
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpNet.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csprojAssemblyReference.cache
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\App.g.cs
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_Content.g.cs
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_MarkupCompile.cache
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.g.resources
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.Properties.Resources.resources
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.GenerateResource.cache
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CoreCompileInputs.cache
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CopyComplete
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.exe
+D:\FTN\7. semestar\Računarska grafika\kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.pdb
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe.config
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.pdb
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpNet.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csprojAssemblyReference.cache
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\App.g.cs
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_Content.g.cs
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_MarkupCompile.cache
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.g.resources
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.Properties.Resources.resources
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.GenerateResource.cache
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CoreCompileInputs.cache
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CopyComplete
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.exe
+D:\FTN\7. semestar\Računarska grafika\2. kontrolna tacka2 predmetni zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.pdb
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csprojAssemblyReference.cache
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\App.g.cs
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_Content.g.cs
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1_MarkupCompile.cache
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.g.resources
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.exe
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.pdb
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe.config
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.exe
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\PF1S8v1.pdb
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\AssimpNet.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8v1.Properties.Resources.resources
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.GenerateResource.cache
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CoreCompileInputs.cache
+D:\RG-projektni-zadatak\OpenGLProject\AssimpSample\obj\x86\Debug\PF1S8.1.csproj.CopyComplete

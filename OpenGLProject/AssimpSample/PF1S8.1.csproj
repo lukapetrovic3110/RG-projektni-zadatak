@@ -57,6 +57,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Design" />
     <Reference Include="System.Device" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -74,6 +75,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Animation.cs" />
     <Compile Include="AssimpScene.cs" />
     <Compile Include="World.cs" />
     <Page Include="MainWindow.xaml">
@@ -109,7 +111,9 @@
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="Formula 1 3D Models\Bolid1\Bolid1.3ds" />
-    <None Include="Formula 1 3D Models\Bolid2\Bolid2.3DS" />
+    <None Include="Formula 1 3D Models\Car2\Car tasergal xform N200214.3DS" />
+    <None Include="Formula 1 3D Models\Car2\Car tasergal xform N200214.gsm" />
+    <None Include="Formula 1 3D Models\Car2\tasergal xform.3DS" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -131,6 +135,9 @@
     <Content Include="AssimpLib\AssimpNet.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Resource Include="Textures\metal.jpg" />
+    <Resource Include="Textures\sljunak.jpg" />
+    <Resource Include="Textures\asfalt.jpg" />
     <Resource Include="Formula 1 3D Models\Bolid1\AilARarr.jpg" />
     <Resource Include="Formula 1 3D Models\Bolid1\Aileavan.jpg" />
     <Resource Include="Formula 1 3D Models\Bolid1\airboxLA.jpg" />
@@ -159,6 +166,7 @@
     <Resource Include="Formula 1 3D Models\Bolid1\textureo.jpg" />
     <Resource Include="Formula 1 3D Models\Bolid1\Texturer.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
